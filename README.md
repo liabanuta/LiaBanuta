@@ -11,10 +11,9 @@ studying: computer science & engineering
 tags: #DevOps (god level)
 
 fucking_around_with:
-  - llms and ai stuff
-  - machine learning sometimes  
-  - neural networks *coming soon*
-  - kaggle competitions (love the grind)
+  - machine learning
+  - learning binary decision diagram classifiers (*coming soon*)
+  - computer graphics ???
 
 things_i_actually_know:
   - coding (decently)
@@ -25,7 +24,7 @@ when_not_coding:
   - biking (preferably not on concrete)
   - climbing stuff (rocks, walls, whatever)
   - drawing random things
-  - i just like doing stuff
+  - i am also a sewist
 ```
 
 </td>
