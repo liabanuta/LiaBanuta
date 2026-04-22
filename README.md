@@ -12,7 +12,7 @@ tags: #DevOps (god level)
 
 fucking_around_with:
   - machine learning
-  - learning binary decision diagram classifiers (*coming soon*)
+  - learning binary decision diagram classifiers 
   - computer graphics ???
 
 things_i_actually_know:
@@ -24,7 +24,6 @@ when_not_coding:
   - biking (preferably not on concrete)
   - climbing stuff (rocks, walls, whatever)
   - drawing random things
-  - i am also a sewist
 ```
 
 </td>
