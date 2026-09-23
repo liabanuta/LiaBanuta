@@ -4,15 +4,15 @@
 
 ```yaml
 name: Lia Banuta
-location: eindhoven (the netherlands)
-status: 3rd year bcs student @ tue
-studying: computer science & engineering
+location: rotterdam (the netherlands)
+status: 1st year msc student @ tud
+studying: computer science
 
-tags: #DevOps (god level)
+tags: #software_engineering, #machine_learning, #algorithms, #dev_ops
 
-fucking_around_with:
+playing_around_with:
   - machine learning
-  - learning binary decision diagram classifiers 
+  - linux
   - computer graphics ???
 
 things_i_actually_know:
@@ -23,7 +23,7 @@ things_i_actually_know:
 when_not_coding:
   - biking (preferably not on concrete)
   - climbing stuff (rocks, walls, whatever)
-  - drawing random things
+  - making my sewing machine catch on fire
 ```
 
 </td>
