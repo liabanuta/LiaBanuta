@@ -13,7 +13,7 @@ tags: #software_engineering, #machine_learning, #algorithms, #dev_ops
 playing_around_with:
   - machine learning
   - linux
-  - computer graphics ???
+  - leetcode :'(
 
 things_i_actually_know:
   - coding (decently)
